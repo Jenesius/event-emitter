@@ -1,0 +1,20 @@
+{
+  "name": "jenesius-event-emitter",
+  "version": "1.0.0",
+  "description": "Event emitter with hooks",
+  "private": false,
+  "main": "./dist/index.cjs.js",
+  "module": "./dist/index.esm.js",
+  "types": "./dist/dts/event-emitter.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+
+  },
+  "author": "Jenesius",
+  "license": "MIT",
+  "devDependencies": {
+    "@rollup/plugin-typescript": "^8.3.2"
+  }
+}
