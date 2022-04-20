@@ -3,7 +3,7 @@ Simple, small and with off-hook.
 
 ### Global usign
 ```js
-import EventEmitter from "jenesius-vue-modal";
+import EventEmitter from "jenesius-event-emitter";
 
 const offMessage = EventEmitter.on('message', m => {});
 

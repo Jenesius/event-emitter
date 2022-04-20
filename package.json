@@ -1,6 +1,6 @@
 {
   "name": "jenesius-event-emitter",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Simple, small and with off-hook.",
   "private": false,
   "main": "./dist/index.cjs.js",
