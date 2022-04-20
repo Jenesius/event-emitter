@@ -14,6 +14,8 @@ const outputConfig = {
 	cjs: {
 		file: './dist/index.cjs.js',
 		format: `cjs`,
+		exports: 'auto'
+		
 	},
 	es: {
 		file: './dist/index.esm.js',
