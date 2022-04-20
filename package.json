@@ -9,7 +9,16 @@
   "files": [
     "dist"
   ],
-  "scripts": {},
+
+  "scripts": {
+
+  },
+  "keywords": [
+    "event",
+    "events",
+    "event-bus",
+    "event-emitter"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/Jenesius/event-emitter.git"
